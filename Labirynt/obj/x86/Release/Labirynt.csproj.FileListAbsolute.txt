@@ -1,0 +1,6 @@
+E:\Programowanie\Labirynt\Labirynt\bin\x86\Release\Labirynt.exe
+E:\Programowanie\Labirynt\Labirynt\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Programowanie\Labirynt\Labirynt\obj\x86\Release\Labirynt.Form1.resources
+E:\Programowanie\Labirynt\Labirynt\obj\x86\Release\Labirynt.Properties.Resources.resources
+E:\Programowanie\Labirynt\Labirynt\obj\x86\Release\Labirynt.csproj.GenerateResource.Cache
+E:\Programowanie\Labirynt\Labirynt\obj\x86\Release\Labirynt.exe

@@ -1,0 +1,8 @@
+E:\Programowanie\Labirynt\Labirynt\bin\Debug\Labirynt.exe
+E:\Programowanie\Labirynt\Labirynt\bin\Debug\Labirynt.pdb
+E:\Programowanie\Labirynt\Labirynt\obj\Debug\ResolveAssemblyReference.cache
+E:\Programowanie\Labirynt\Labirynt\obj\Debug\Labirynt.Form1.resources
+E:\Programowanie\Labirynt\Labirynt\obj\Debug\Labirynt.Properties.Resources.resources
+E:\Programowanie\Labirynt\Labirynt\obj\Debug\Labirynt.csproj.GenerateResource.Cache
+E:\Programowanie\Labirynt\Labirynt\obj\Debug\Labirynt.exe
+E:\Programowanie\Labirynt\Labirynt\obj\Debug\Labirynt.pdb
